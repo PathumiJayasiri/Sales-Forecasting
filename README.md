@@ -5,19 +5,15 @@
 ## 📌 Overview
 
 Dataset: train.csv (contains store, item, sales, and date)
-
 Objective: Forecast monthly customer sales
 
 Models Used:
-
 Linear Regression (LR)
 
 (Future scope: Random Forest, XGBoost, LSTM)
 
 Metrics:
-
 Root Mean Squared Error (RMSE)
-
 Mean Absolute Error (MAE)
 
 R² Score
@@ -120,8 +116,4 @@ The Linear Regression model provides a baseline approach to sales forecasting.
 * Apply **Feature Engineering** (holidays, promotions, seasonality).
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use for educational purposes.
 
